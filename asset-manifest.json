@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PontoAll/static/css/main.073c9b0a.css",
+    "main.js": "/PontoAll/static/js/main.47b61079.js",
+    "static/js/787.98568354.chunk.js": "/PontoAll/static/js/787.98568354.chunk.js",
+    "static/media/logo.svg": "/PontoAll/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PontoAll/index.html",
+    "main.073c9b0a.css.map": "/PontoAll/static/css/main.073c9b0a.css.map",
+    "main.47b61079.js.map": "/PontoAll/static/js/main.47b61079.js.map",
+    "787.98568354.chunk.js.map": "/PontoAll/static/js/787.98568354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47b61079.js"
+  ]
+}
